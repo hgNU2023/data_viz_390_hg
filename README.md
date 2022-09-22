@@ -10,3 +10,8 @@ Here's a picture of my campus, Northwestern University
 
 
 I'm going to try to make a GitHub pages!
+
+
+# Notes to self:
+- Request access for DataQuest if I want more practice
+- 
