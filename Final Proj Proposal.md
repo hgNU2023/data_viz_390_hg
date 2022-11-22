@@ -3,7 +3,7 @@
 
 ### Leading Questions:
 
-What is the current state of U.S. data privacy legislation? What is the U.S. population's outlook on the state of tech privacy and how might it have changed during the pandemic?
+*What is the current state of U.S. data privacy legislation? What is the U.S. population's outlook on the state of tech privacy and how might it have changed during the pandemic?*
 
 
 For the first question, I plan to make a US map with data from iapp's "US State Privacy Legislation Tracker." Interestingly, this is what the map from iapp looked like in July 2021:
@@ -30,7 +30,7 @@ After discussing a bit about the takeaways from the general survey data, I will 
 
 
 
-## *Overall, my hope is to make a final project in the "Storytelling" category, to walk through where we are at with Data Privacy Legislation and how the U.S. population feels about it.*
+## Overall, my hope is to make a final project in the "Storytelling" category, to walk through where we are at with Data Privacy Legislation and how the U.S. population feels about it.
 
 
 
