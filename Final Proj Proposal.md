@@ -14,6 +14,7 @@ And this is what the most updated map looks like (updated 10/7/22)
 
 ![State_Comp_Privacy_Law_Map](https://user-images.githubusercontent.com/114178058/203317451-3dc21783-1950-400d-b034-a39c2bd4cc36.png)
 
+This first part will be an updated look on what is actually happening with pieces of legislation across the U.S. to set the groundwork for looking into public opinion on the issue.
 
 For the opinion-based second question about public outlook, I plan to use a few data sets.
 
@@ -29,5 +30,8 @@ After discussing a bit about the takeaways from the general survey data, I will 
 
 
 
+## Overall, my hope is to make a final project in the "Storytelling" category, to walk through where we are at with Data Privacy Legislation and how the U.S. population feels about it.
 
+
+(An expansion on this project could be a look into public opinion in Europe where privacy legislation is more robust and has been around longer, and making comparisons / predictions for the U.S. based on this. Also, it is possible that I could do this instead of the look into contact tracing.)
 
