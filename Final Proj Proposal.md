@@ -1,7 +1,7 @@
-### Final Project Proposal
+# Final Project Proposal
 
 
-Leading Questions:
+### Leading Questions:
 
 What is the current state of U.S. data privacy legislation? What is the U.S. population's outlook on the state of tech privacy and how might it have changed during the pandemic?
 
@@ -30,7 +30,9 @@ After discussing a bit about the takeaways from the general survey data, I will 
 
 
 
-## Overall, my hope is to make a final project in the "Storytelling" category, to walk through where we are at with Data Privacy Legislation and how the U.S. population feels about it.
+## *Overall, my hope is to make a final project in the "Storytelling" category, to walk through where we are at with Data Privacy Legislation and how the U.S. population feels about it.*
+
+
 
 
 (An expansion on this project could be a look into public opinion in Europe where privacy legislation is more robust and has been around longer, and making comparisons / predictions for the U.S. based on this. Also, it is possible that I could do this instead of the look into contact tracing.)
