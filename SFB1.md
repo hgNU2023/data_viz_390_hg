@@ -1,7 +1,6 @@
 # Short Form Blog 1
 
-Violence against women and girls is one of the most widespread human rights violations in the world. While it is difficult to gather data on this topic in some cases, because of societal stigma and potential danger that prevent females from reporting, there is a Demographic and Health Survey dataset with survey data from 70 countries on the topic of violence against women and girls that can help look into the issue. https://www.kaggle.com/datasets/andrewmvd/violence-against-women-and-girls?resource=download
-
+Violence against women and girls is still one of the most widespread human rights violations in the world––in fact, in March, the UN chief stated that violence against women and girls may be the world’s “longest, deadliest pandemic” (UN News). While it’s such an extensive issue, it is difficult to get up-to-date and accurate data in this area because of the social stigma and potential danger that prevent females from reporting. However, I found a dataset with survey data from the past decade that spans 70 countries. The dataset is from a Demographic and Health Survey (DHS), which, according to The DHS Program website, is a “nationally representative population-based survey with a large sample size (usually between 5,000 and 30,000 households)” (DHS).
 
 There are many factors that lead to the unjust treatment of women, many of which are known and some of which still need to be studied. To have the best chance at coming up with solutions to the issue of this violence, it is important to dive deep into potentially causal issues. In this dataset, the focus is on the perception of whether a husband hitting or beating a wife is justified. The respondents were given a list of statements and instructed to indicate whether they agree or disagree. The statements were as follows:
 
@@ -12,6 +11,7 @@ There are many factors that lead to the unjust treatment of women, many of which
 * ...if she neglects the children”
 * ...if she refuses to have sex with him”
 * ...for at least one specific reason”
+
 
 In order to narrow down the dataset for analysis and visualization, I focused on the country of Afghanistan. Therefore, my question is:
 
