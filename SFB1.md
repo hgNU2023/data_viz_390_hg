@@ -19,7 +19,7 @@ I mentioned in my introduction that there is social stigma attached to domestic 
 
 In order to narrow down the dataset for analysis and visualization, I focused on the country of Afghanistan. Therefore, my targeted question is:
 
-## Are there societal patterns within Afghan demographic groups that indicate who is likely to agree with the justification of using violence against women?
+## Are there patterns among Afghan demographic groups that indicate who is likely to agree with the justification of using violence against women?
 
 The first graph explores the responses to the statement  “A husband is justified in hitting or beating his wife if she burns the food.” Respondents were instructed to choose between two options: “Agree” or “Disagree.” The graph below demonstrates the percentage of respondents who indicated that they agree with the statement regarding use of violence against women. The responses are broken down by gender and by age group, as seen on the x-axes. 
 
