@@ -23,8 +23,8 @@ In order to narrow down the dataset for analysis and visualization, I focused on
 
 The first graph explores the responses to the statement  “A husband is justified in hitting or beating his wife if she burns the food.” Respondents were instructed to choose between two options: “Agree” or “Disagree.” The graph below demonstrates the percentage of respondents who indicated that they agree with the statement regarding use of violence against women. The responses are broken down by gender and by age group, as seen on the x-axes. 
 
-<img src="https://user-images.githubusercontent.com/114178058/201834451-b5bf5b28-7c25-4e6c-8e48-3ca91128b4cb.png" width=75% height=75%>
-(alt = "Graph of responses to whether a husband is justified in hitting his wife if she burns the food")
+<img alt = "Graph of responses to whether a husband is justified in hitting his wife if she burns the food" src="https://user-images.githubusercontent.com/114178058/201834451-b5bf5b28-7c25-4e6c-8e48-3ca91128b4cb.png" width=75% height=75%>
+
 
 We can see here that the group with the highest response rate is surprising––it’s females ages 35-49. And, overall, all of the female age groups have higher response rates than all of the male groups. The rate for females in the age group 35-49 is 18.8%, which means that almost 1 in every 5 women survey respondents in Afghanistan believe that a woman deserves to be hit or beat if they burn the food they are cooking. The highest rate of agreement among men in response to this question is in the age group 15-24, and the response rate is 9.4%, which is only half of the women’s rate. This means that in the two older men’s age groups, **the amount of men who agreed with the statement was less than half of that of women in the oldest age group.** This begins to show that the perception of violence against women may differ between genders, and may actually be justified in the minds of more women than men. 
 
@@ -32,7 +32,7 @@ We can see here that the group with the highest response rate is surprising–�
 
 The next graph shows the distribution of responses to the statement “A husband is justified in hitting or beating his wife if she goes out without telling him.” The responses are broken down by gender and by geographic demographic (i.e. whether the respondent lives in a rural or urban area.)
 
-<img src="https://user-images.githubusercontent.com/114178058/201834429-8716da15-3469-4e52-bf77-349df71ca82d.png" width=75% height=75%>
+<img  alt = "Graph of responses to whether a husband is justified in hitting his wife if she goes out without telling him" src="https://user-images.githubusercontent.com/114178058/201834429-8716da15-3469-4e52-bf77-349df71ca82d.png" width=75% height=75%>
 
 Here we can see a much higher rate of responses than the rate of responses to the previous question. WIthin rural populations, over 60% of men and women agree that a woman going out without telling her husband means she deserves to be treated with violence. In both male and female populations, we see that a lower rate of respondents from urban areas agree with the statement. Between genders, the rates for women are, again, slightly higher in both geographic demographics than for men. A few takeaways can be made from this graph, one being that a woman going out without telling her husband is perceived to be a very justifiable reason for women to be treated with violence by their husbands. Next, we see that this justification is just as, if not more, rooted in female perception as in men’s. Finally, we see that this perception is heightened in rural areas.
 
@@ -40,7 +40,7 @@ Here we can see a much higher rate of responses than the rate of responses to th
 
 The next graph displays the responses to the statement “A husband is justified in hitting or beating his wife if she refuses to have sex with him.” The responses are broken down, again, by gender, and also this time by education level. 
 
-<img src="https://user-images.githubusercontent.com/114178058/201834439-f5caef3c-ad22-45f4-9216-8f90939f10c9.png" width=75% height=75%>
+<img  alt = "Graph of responses to whether a husband is justified in hitting his wife if she refuses to have sex with him" src="https://user-images.githubusercontent.com/114178058/201834439-f5caef3c-ad22-45f4-9216-8f90939f10c9.png" width=75% height=75%>
 
 Here, we see that there is a pattern in education level. In general, it appears that the higher the education level of the respondent group, the lower the rate of agreement with the statement. We see the largest jump in reaction from women with a secondary education to women who have received a higher education: the data show that around 1 in 4 women with a secondary education believes in the justification of violence for refusal to have sex whereas just about 1 in 10 women with a high education think the same. 
 
@@ -49,9 +49,9 @@ Here, we see that there is a pattern in education level. In general, it appears 
 
 The final graph shows the distribution of responses to the statement “A husband is justified in hitting or beating his wife if she neglects the children.” This graph is broken down by gender and age group.
 
-<img src="https://user-images.githubusercontent.com/114178058/201834460-5cbe5665-48ec-4889-85ab-1eb09def763c.png" width=75% height=75%>
+<img  alt = "Graph of responses to whether a husband is justified in hitting his wife if she neglects the children" src="https://user-images.githubusercontent.com/114178058/201834460-5cbe5665-48ec-4889-85ab-1eb09def763c.png" width=75% height=75%>
 
-The graph displays the stark difference in gendered responses here. In every age group, about double the number of female respondents agree with the statement about the use of violence in response to the wife’s child neglect than men. 
+The graph displays the stark difference in gendered responses here. In every age group, about double the number of female respondents agree with the statement about the use of violence in response to the wife’s child neglect than the number of male respondents. 
 
 
 
@@ -59,7 +59,7 @@ Overall, there are several limitations with the data. There is no way to know th
 
 
 
-Given the data that we have, the visualizations provided above begin to delve into the question “in what groups is the use of violence against women justified?”. Looking at the graphs above, we see that in general, there is more justification of violence against women among women. This can start to target efforts of education and cultural stigma change. Going further, we can look into specific populations of women based on demographics such as age, geographic demographic, and education level. Narrowing down the populations where the justification of violence is most prevalent can help target efforts to reverse this justification. While the ultimate goal would be to reduce all of the response levels for men and women down to zero, starting in areas where the data may indicate that the stigma is the worst could be an impactful strategy. Also, targeting these areas, we can look into other specific aspects of these populations’ lifestyles to see more causal attributes that may lead to the mindset of violence justification and make steps to reverse these causal attributes.
+Given the data that we have, the visualizations provided above begin to delve into the question “in what groups is the use of violence against women justified?”. Looking at the graphs above, we see that in general, there is more justification of violence against women * *among women.* * This can start to target efforts of education and cultural stigma change. Going further, we can look into specific populations of women based on demographics such as age, geographic demographic, and education level. Narrowing down the populations where the justification of violence is most prevalent can help target efforts to reverse this justification. While the ultimate goal would be to reduce all of the response levels for men and women down to zero, starting in areas where the data may indicate that the stigma is the worst could be an impactful strategy. Also, targeting these areas, we can look into other specific aspects of these populations’ lifestyles to see more causal attributes that may lead to the mindset of violence justification and make steps to reverse these causal attributes.
 
 
 
