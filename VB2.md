@@ -1,1 +1,1 @@
-STILL NEED TO DO THIS
+# Visualization Blog 1
