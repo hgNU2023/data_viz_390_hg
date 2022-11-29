@@ -1,7 +1,7 @@
 # Visualization Blog 2
 
 
-I am focusing on editing graphs to fit "my brand." Essentially, I have created a color palette, font style, and overall tone for the graphs. I also went back and applied some new tools like how to change the order of the elements in the x-axis and editted the titles of the graphs as well as axes and legends. 
+I am focusing on editing graphs to fit "my brand." Essentially, I have chosen a color palette, font style, and overall tone for the graphs. I also went back and applied some new tools like how to change the order of the elements in the x-axis and edited the titles of the graphs as well as axes and legends to be more clear and informative. 
 
 Here's the first:  
 
