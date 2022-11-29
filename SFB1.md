@@ -66,12 +66,9 @@ Given the data that we have, the visualizations provided above begin to delve in
 
 Sources Cited:
 
-Data set from The DHS Program accessed through Kaggle: 
-
 Larxel. “Violence against Women and Girls.” Kaggle, 12 May 2020, https://www.kaggle.com/datasets/andrewmvd/violence-against-women-and-girls. 
 
-Other sources:
-https://news.un.org/en/story/2022/03/1114472
-https://dhsprogram.com/data/data-collection.cfm
+“Women and Girls Deserve to Live without Violence in 'Safety, Dignity and Freedom' | UN News.” United Nations, United Nations, 22 Mar. 2022, https://news.un.org/en/story/2022/03/1114472. 
 
+“The DHS Program.” The DHS Program - Data Collection, https://dhsprogram.com/data/data-collection.cfm. 
 
