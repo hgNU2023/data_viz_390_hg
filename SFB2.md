@@ -1,1 +1,1 @@
-NEED TO FINISH AND POST
+# Short Form Blog 2
