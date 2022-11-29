@@ -2,7 +2,7 @@
 Violence against women and girls is still one of the most widespread human rights violations in the world––in fact, in March, the UN chief stated that violence against women and girls may be the world’s “longest, deadliest pandemic” ([UN News](https://news.un.org/en/story/2022/03/1114472
 )). Why has this pandemic of violence endured? By looking into data regarding this issue, we can help shed light on why this violence has such strong roots and what can be done to turn the vicious trend around.
 
-It is difficult to get up-to-date and accurate data in the area of domestic violence because of the social stigma and potential danger that prevent females from reporting. However, [there is a dataset with survey data from the past decade that spans 70 countries](https://www.kaggle.com/datasets/andrewmvd/violence-against-women-and-girls). The dataset is from a Demographic and Health Survey ([DHS](https://dhsprogram.com/data/data-collection.cfm
+It is difficult to get up-to-date and accurate data in the area of domestic violence because of the social stigma and potential danger that prevent females from reporting. However, [there is a dataset I accessed through Kaggle with survey data from the past decade that spans 70 countries](https://www.kaggle.com/datasets/andrewmvd/violence-against-women-and-girls). The dataset is from a Demographic and Health Survey ([DHS](https://dhsprogram.com/data/data-collection.cfm
 )), which, according to The DHS Program website, is a “nationally representative population-based survey with a large sample size (usually between 5,000 and 30,000 households)” (DHS). This data could give some important insight into the intricacy of violence against women worldwide.
 
 There are many factors that lead to the unjust treatment of women, many of which are known and some of which still need to be studied. To have the best chance at coming up with solutions to the issue of this violence, it is important to dive deep into potentially causal issues. **In this dataset, the focus is on the perception of whether a husband hitting or beating a wife is justified.** The respondents were given a list of statements and instructed to indicate whether they agree or disagree. The statements were as follows:
@@ -59,4 +59,17 @@ Overall, there are several limitations with the data. There is no way to know th
 
 
 Given the data that we have, the visualizations provided above begin to delve into the question “in what groups is the use of violence against women justified?”. Looking at the graphs above, we see that in general, there is more justification of violence against women among women. This can start to target efforts of education and cultural stigma change. Going further, we can look into specific populations of women based on demographics such as age, geographic demographic, and education level. Narrowing down the populations where the justification of violence is most prevalent can help target efforts to reverse this justification. While the ultimate goal would be to reduce all of the response levels for men and women down to zero, starting in areas where the data may indicate that the stigma is the worst could be an impactful strategy. Also, targeting these areas, we can look into other specific aspects of these populations’ lifestyles to see more causal attributes that may lead to the mindset of violence justification and make steps to reverse these causal attributes.
+
+
+
+
+
+Sources Cited:
+
+Data set from The DHS Program accessed through Kaggle: https://www.kaggle.com/datasets/andrewmvd/violence-against-women-and-girls
+
+Other sources:
+https://news.un.org/en/story/2022/03/1114472
+https://dhsprogram.com/data/data-collection.cfm
+
 
