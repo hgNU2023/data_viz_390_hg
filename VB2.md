@@ -11,4 +11,4 @@ Here's the first:
 And the second:
 
 
-![new_vax_rates_gg](https://user-images.githubusercontent.com/114178058/204652088-2a7b575c-ce03-4351-bc67-45ad248cfb7b.png)
+![new_vax_rates_gg](https://user-images.githubusercontent.com/114178058/204652607-a08f9a6e-e725-474f-adff-703a5c69e109.png)
