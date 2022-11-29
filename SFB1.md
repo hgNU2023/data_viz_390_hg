@@ -1,5 +1,6 @@
 # Short Form Blog 1
-Violence against women and girls is still one of the most widespread human rights violations in the world––in fact, in March, the UN chief stated that violence against women and girls may be the world’s “longest, deadliest pandemic” (UN News). Why has this pandemic of violence endured? By looking into data regarding this issue, we can help shed light on why this violence has such strong roots and what can be done to turn the vicious trend around.
+Violence against women and girls is still one of the most widespread human rights violations in the world––in fact, in March, the UN chief stated that violence against women and girls may be the world’s “longest, deadliest pandemic” ([UN News](https://news.un.org/en/story/2022/03/1114472
+)). Why has this pandemic of violence endured? By looking into data regarding this issue, we can help shed light on why this violence has such strong roots and what can be done to turn the vicious trend around.
 
 It is difficult to get up-to-date and accurate data in the area of domestic violence because of the social stigma and potential danger that prevent females from reporting. However, I found a dataset with survey data from the past decade that spans 70 countries. The dataset is from a Demographic and Health Survey (DHS), which, according to The DHS Program website, is a “nationally representative population-based survey with a large sample size (usually between 5,000 and 30,000 households)” (DHS). This data could give some important insight into the intricacy of violence against women worldwide.
 
