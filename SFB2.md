@@ -34,4 +34,15 @@ Here is another way of visualizing the correlation. Where the bars indicate the 
 
 ![ee_dem_cens_bar_gg](https://user-images.githubusercontent.com/114178058/206878817-1579a3c7-b225-4454-91d4-4bf605a87090.png)
 ![ee_gov_cens_time_point_gg](https://user-images.githubusercontent.com/114178058/206878825-4ff6f0ea-2c0e-463b-9d73-a3910a8096f8.png)
+
+When looking at each country, we see a similar pattern. This helps us know that this is not a pattern in a few countries when we aggregate the E. European data, but rather a pattern within each country.
+
 ![ee_lib_cens_by_country_gg](https://user-images.githubusercontent.com/114178058/206878829-428b0613-90b8-480e-b2d1-b2ab8553a84b.png)
+
+
+
+### Source Used: V-Dem Data Set:
+
+Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, Nazifa Alizada, David Altman, Michael Bernhard, Agnes Cornell, M. Steven Fish, Lisa Gastaldi, Haakon Gjerløw, Adam Glynn, Allen Hicken, Garry Hindle, Nina Ilchenko, Joshua Krusell, Anna Luhrmann, Seraphine F. Maerz, Kyle L. Marquardt, Kelly McMann, Valeriya Mechkova, Juraj Medzihorsky, Pamela Paxton, Daniel Pemstein, Joseﬁne Pernes, Johannes von Römer, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Aksel Sundström, Ei-tan Tzelgov, Yi-ting Wang, Tore Wig, Steven Wilson and Daniel Ziblatt. 2021. 'V-Dem [Country–Year/Country–Date] Dataset v11' Varieties of Democracy Project. https://doi.org/10.23696/vdems21
+
+
