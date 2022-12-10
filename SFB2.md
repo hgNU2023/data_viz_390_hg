@@ -18,4 +18,4 @@ My graphs, then, look at the relationship between the liberal_democracy level an
 
 
 ![us_lib_dem_time_gg](https://user-images.githubusercontent.com/114178058/206878221-426db0a8-5ff1-43cc-9620-d9a4b606de00.png)
-![us_govt_cens_time_gg](https://user-images.githubusercontent.com/114178058/206878223-43fb7944-a21f-45b9-8180-b60dda2a20c1.png)
+![us_govt_cens_time_gg](https://user-images.githubusercontent.com/114178058/206878251-8dc8a425-54f6-47af-ac0e-7b23eb5336f9.png)
