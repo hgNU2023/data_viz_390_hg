@@ -61,3 +61,7 @@ Ho, Sally, and Josh Boak. “Worsened by Pandemic, Child Care Crisis Hampers Bro
 “Covid-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh/data. 
 
 Spinelli, Maria, et al. “Parents' Stress and Children's Psychological Problems in Families Facing the COVID-19 Outbreak in Italy.” Frontiers, Frontiers, 22 June 2020, https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01713/full. 
+
+
+Packages Bibliography:
+[references.pdf](https://github.com/hgNU2023/data_viz_390_hg/files/10200664/references.pdf)
