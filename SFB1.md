@@ -32,7 +32,7 @@ We can see here that the group with the highest response rate is surprising–�
 
 The next graph shows the distribution of responses to the statement “A husband is justified in hitting or beating his wife if she goes out without telling him.” The responses are broken down by gender and by geographic demographic (i.e. whether the respondent lives in a rural or urban area.)
 
-<img  alt = "Graph of responses to whether a husband is justified in hitting his wife if she goes out without telling him" src="https://user-images.githubusercontent.com/114178058/201834429-8716da15-3469-4e52-bf77-349df71ca82d.png" width=75% height=75%>
+<img  alt = "Graph of responses to whether a husband is justified in hitting his wife if she goes out without telling him" src="https://user-images.githubusercontent.com/114178058/206868159-18cc0e97-94e1-47ab-80e6-48767c08421b.png" width=75% height=75%>
 
 Here we can see a much higher rate of responses than the rate of responses to the previous question. WIthin rural populations, over 60% of men and women agree that a woman going out without telling her husband means she deserves to be treated with violence. In both male and female populations, we see that a lower rate of respondents from urban areas agree with the statement. Between genders, the rates for women are, again, slightly higher in both geographic demographics than for men. A few takeaways can be made from this graph, one being that a woman going out without telling her husband is perceived to be a very justifiable reason for women to be treated with violence by their husbands. Next, we see that this justification is just as, if not more, rooted in female perception as in men’s. Finally, we see that this perception is heightened in rural areas.
 
