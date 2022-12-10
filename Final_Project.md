@@ -48,16 +48,16 @@ Overall, childcare closures during the pandemic appear to be a widespread, finan
 
 # Sources Cited:  
 
-[^1] Kelley Griffin, Kevin Frazzini. “Wake-up Call for Child Care as Pandemic Exposes Troubled System.” National Conference of State Legislatures, NCSL, https://www.ncsl.org/research/education/wake-up-call-for-child-care-as-pandemic-exposes-troubled-system-magazine2022.aspx. 
+Kelley Griffin, Kevin Frazzini. “Wake-up Call for Child Care as Pandemic Exposes Troubled System.” National Conference of State Legislatures, NCSL, https://www.ncsl.org/research/education/wake-up-call-for-child-care-as-pandemic-exposes-troubled-system-magazine2022.aspx. 
 
-[^2] Lee, Emma K., and Zachary Parolin. (2021). “The Care Burden During COVID-19: A National Database of Child Care Closures in the United States.” OSF Preprints. May 14. osf.io/t5d3q.
+Lee, Emma K., and Zachary Parolin. (2021). “The Care Burden During COVID-19: A National Database of Child Care Closures in the United States.” OSF Preprints. May 14. osf.io/t5d3q.
 
-[^3]“Poverty.” USDA ERS - Data Products, https://data.ers.usda.gov/reports.aspx?ID=17826. 
+“Poverty.” USDA ERS - Data Products, https://data.ers.usda.gov/reports.aspx?ID=17826. 
 
-[^4] Ho, Sally, and Josh Boak. “Worsened by Pandemic, Child Care Crisis Hampers Broader Economy.” PBS, Public Broadcasting Service, 27 Oct. 2021, https://www.pbs.org/newshour/economy/worsened-by-pandemic-child-care-crisis-hampers-broader-economy. 
+Ho, Sally, and Josh Boak. “Worsened by Pandemic, Child Care Crisis Hampers Broader Economy.” PBS, Public Broadcasting Service, 27 Oct. 2021, https://www.pbs.org/newshour/economy/worsened-by-pandemic-child-care-crisis-hampers-broader-economy. 
 
-[^5] "Net childcare costs for parents using childcare facilities." OECD, https://stats.oecd.org/
+"Net childcare costs for parents using childcare facilities." OECD, https://stats.oecd.org/
 
-[^6] “Covid-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh/data. 
+“Covid-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh/data. 
 
-[^7] Spinelli, Maria, et al. “Parents' Stress and Children's Psychological Problems in Families Facing the COVID-19 Outbreak in Italy.” Frontiers, Frontiers, 22 June 2020, https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01713/full. 
+Spinelli, Maria, et al. “Parents' Stress and Children's Psychological Problems in Families Facing the COVID-19 Outbreak in Italy.” Frontiers, Frontiers, 22 June 2020, https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01713/full. 
