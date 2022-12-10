@@ -1,6 +1,6 @@
 # Final Project
 
-### Leading question: How did the COVID-19 pandemic affect childcare in the U.S.? 
+### How did the COVID-19 pandemic affect childcare options? 
 
 NOTE: My initial proposal was about privacy legislation in the U.S. and how the pandemic (specifically contact tracing) may have affected public opinion on privacy policies. However, when I started looking into this topic, I found a lot of data but most of it was survey data or qualitative data about stages of the legislative process. My research began to shift to other social impacts of the COVID-19 pandemic. One of the datasets I found was about childcare closures and I decided to redirect my final project to this topic.
 
@@ -8,6 +8,9 @@ NOTE: My initial proposal was about privacy legislation in the U.S. and how the 
 ## Introduction:
 
 As a restaurant server in a small town in Maine, I worked with a lot of young moms who were subjected to extremely difficult decisions regarding childcare in the midst of the pandemic. One afternoon, I overheard one of my favorite coworkers break the news to the manager that her young son was on the waitlist at three different daycare centers, but if he didn’t get off a list by the end of the month she would have to give up all her shifts at the restaurant and take care of her son. 
+
+Stories like the one I overheard were not uncommon during the pandemic. In fact, millions of women realized they couldn’t sustain their jobs with the lack of childcare options during the pandemic and were forced to leave the workforce (NCSL). While the pandemic uprooted all families across the world, anecdotally, are there some demographics or geographic areas that felt the strain of lack of childcare options worse than others? Looking into preliminary data gathered from the past few years can begin to illuminate what happened during the pandemic, what the issues are in the childcare system in the U.S., and who unfairly bears the brunt of dealing with this issue in a “half-changed world.”
+
 
 ![maine_county_gg](https://user-images.githubusercontent.com/114178058/206836560-1f2d274a-a133-432f-a1e9-166c808e38d9.png)
 ![us_mean_change_gg](https://user-images.githubusercontent.com/114178058/206836563-eb59cf6e-493d-4934-9860-72b764dc537d.png)
