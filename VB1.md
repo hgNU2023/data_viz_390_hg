@@ -1,4 +1,4 @@
-COPY & PASTE from old website if can find ---> (I unfortunately did not save the exact file before I deleted my website so I am missing a few things from the original assignment but here is the gist:
+(HANNAH: COPY & PASTE from old website if can find) ---> (I unfortunately did not save the exact file before I deleted my website so I am missing a few things from the original assignment but here is the gist):
 
 # Visualization Blog 1
 ## Theme: Controversy & Contention!
@@ -18,3 +18,11 @@ This still is taken from an interactive graph, but for the purposes of this blog
 
 
 It takes a second to see it––look again! Did you catch it? The y-axis is upside down! So, while it looks like an oddly shaded in line graph with a drop in murders after the ‘Stand Your Ground’ law was passed in Florida, it is actually displaying the opposite trend. The number of deaths actually spiked after 2005, and from the early 1990s to ~2012 it appears that the number of murders committed using fire arms has dropped about 150. The most glaring issue with this graph is the inverse y-axis––it is non-intuitive and could easily lead to wrong conclusions. While it is important to study a visualization and read it in its entirety, people are not always going to take the time to do so. Therefore, the “first-glance takeaway” of a visualization is incredibly important. From this graph, I take away that I will consider first-instincts and typical expectations of the viewer, as these are important parts of the public-facing nature of a visualization on a controversial topic.
+
+
+### Original Visualization
+
+![simple_vaxrates](https://user-images.githubusercontent.com/114178058/206837902-00e2fa32-498f-4c5e-affd-0f5f937a760b.png)
+
+
+
