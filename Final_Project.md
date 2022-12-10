@@ -16,7 +16,7 @@ Stories like the one I overheard at my restaurant were not uncommon during the p
 
 I started out by looking at the quantitative data from where my anecdotal introduction to the topic of childcare began: in Maine. I accessed a dataset from OSF, and open source research and data management software, called “U.S. Database of Child Care Closures during COVID-19.” I first zoomed in on my home state to look at the rate of child care center closures. This particular dataset used anonymized and aggregated mobile phone data to track changes in visits to childcare centers on a monthly basis between 2019 as compared to 2020 and 2021 (Lee and Parolin). You can see below that where I’m from, more than 60% of the childcare centers saw a decline in visitation by over 50%, which was this study’s proxy for closures. Whether the childcare center fully closed or had to reduce its capacity greatly because of social distancing and ventilation needs, one can see how disruptive this pattern in childcare centers would be for young parents. 
 
-<img  alt = "County map of Maine showing childcare center closures" src="[https://user-images.githubusercontent.com/114178058/201834429-8716da15-3469-4e52-bf77-349df71ca82d.png](https://user-images.githubusercontent.com/114178058/206836560-1f2d274a-a133-432f-a1e9-166c808e38d9.png)" width=75% height=75%>
+<img  alt = "County map of Maine showing childcare center closures" src="[https://user-images.githubusercontent.com/114178058/206836560-1f2d274a-a133-432f-a1e9-166c808e38d9.png]" width=75% height=75%>
 
 ## Is this just an issue in Maine? It doesn’t seem that way…
 
