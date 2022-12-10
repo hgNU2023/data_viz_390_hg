@@ -36,17 +36,17 @@ More privileged families had the ability to shift their career to a remote optio
 # How much do low-income families have to spend on childcare?
 
 
-Below is a graph of the top 10 countries where minimum-wage earning couples spend the highest percent of their household income on childcare. Here we can see that in the U.S., the third highest, minimum-wage earning couples spend **27% of their family income on child care.**
+Below is a graph with data from OECD of the top 10 countries where minimum-wage earning couples spend the highest percent of their household income on childcare [^5]. Here we can see that in the U.S., the third highest, minimum-wage earning couples spend **27% of their family income on child care.**
 
 ![childcare_cost_gg](https://user-images.githubusercontent.com/114178058/206836579-3f904386-b8d2-4cc9-9045-440028b29ed5.png)
 
-To make matters worse, kids were not able to get their vaccinations at the same time as the rest of the population, which added to the emotional strain of the pandemic. Without vaccinations, kids had to quarantine more frequently and for longer periods of time than the CDC allowed vaccinated people to. One study published in Frontiers of Psychology stated that “Quarantine's impact on children's behavioral and emotional problems is mediated by parent's individual and dyadic stress, with a stronger effect from the latter”[^5]. 
+To make matters worse, kids were not able to get their vaccinations at the same time as the rest of the population, which added to the emotional strain of the pandemic. Without vaccinations, kids had to quarantine more frequently and for longer periods of time than the CDC allowed vaccinated people to. Here we can see data from the CDC that shows how few kids are fully vaccinated, and this number was much less  in the past years[^6].One study published in Frontiers of Psychology stated that “Quarantine's impact on children's behavioral and emotional problems is mediated by parent's individual and dyadic stress, with a stronger effect from the latter”[^7]. 
 
 ![vax_by_age_gg](https://user-images.githubusercontent.com/114178058/206836582-589557c5-b0cc-41a6-b726-ca4159469b39.png)
 
 Overall, childcare closures during the pandemic appear to be a widespread, financially and emotionally damaging issue. These statistics coupled with personal anecdotes demonstrate that there may be deeper issues with the childcare industry in the U.S. as a whole. Continued data from the pandemic about childcare options, pay rates for nannies versus daycare workers, and further emotional analysis will likely be available soon, and will be important to analyze for the wellbeing of the youth of our country. This blog here only scratches the surface of the dimensional issue, and begins to give exigence for changes in the availability of childcare options.
 
-Sources Cited:  
+# Sources Cited:  
 
 [^1] Kelley Griffin, Kevin Frazzini. “Wake-up Call for Child Care as Pandemic Exposes Troubled System.” National Conference of State Legislatures, NCSL, https://www.ncsl.org/research/education/wake-up-call-for-child-care-as-pandemic-exposes-troubled-system-magazine2022.aspx. 
 
@@ -56,4 +56,8 @@ Sources Cited:
 
 [^4] Ho, Sally, and Josh Boak. “Worsened by Pandemic, Child Care Crisis Hampers Broader Economy.” PBS, Public Broadcasting Service, 27 Oct. 2021, https://www.pbs.org/newshour/economy/worsened-by-pandemic-child-care-crisis-hampers-broader-economy. 
 
-[^5] Spinelli, Maria, et al. “Parents' Stress and Children's Psychological Problems in Families Facing the COVID-19 Outbreak in Italy.” Frontiers, Frontiers, 22 June 2020, https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01713/full. 
+[^5] "Net childcare costs for parents using childcare facilities." OECD, https://stats.oecd.org/
+
+[^6] “Covid-19 Vaccination Age and Sex Trends in the United States, National and Jurisdictional.” Centers for Disease Control and Prevention, Centers for Disease Control and Prevention, https://data.cdc.gov/Vaccinations/COVID-19-Vaccination-Age-and-Sex-Trends-in-the-Uni/5i5k-6cmh/data. 
+
+[^7] Spinelli, Maria, et al. “Parents' Stress and Children's Psychological Problems in Families Facing the COVID-19 Outbreak in Italy.” Frontiers, Frontiers, 22 June 2020, https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01713/full. 
