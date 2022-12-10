@@ -15,12 +15,15 @@ Stories like the one I overheard at my restaurant were not uncommon during the p
 ## Starting Out:
 
 I started out by looking at the quantitative data from where my anecdotal introduction to the topic of childcare began: in Maine. I accessed a dataset from OSF, and open source research and data management software, called “U.S. Database of Child Care Closures during COVID-19.” I first zoomed in on my home state to look at the rate of child care center closures. This particular dataset used anonymized and aggregated mobile phone data to track changes in visits to childcare centers on a monthly basis between 2019 as compared to 2020 and 2021 (Lee and Parolin). You can see below that where I’m from, more than 60% of the childcare centers saw a decline in visitation by over 50%, which was this study’s proxy for closures. Whether the childcare center fully closed or had to reduce its capacity greatly because of social distancing and ventilation needs, one can see how disruptive this pattern in childcare centers would be for young parents. 
-![maine_county_gg](https://user-images.githubusercontent.com/114178058/206836560-1f2d274a-a133-432f-a1e9-166c808e38d9.png)
+
+<img  alt = "County map of Maine showing childcare center closures" src="[https://user-images.githubusercontent.com/114178058/201834429-8716da15-3469-4e52-bf77-349df71ca82d.png](https://user-images.githubusercontent.com/114178058/206836560-1f2d274a-a133-432f-a1e9-166c808e38d9.png)" width=75% height=75%>
+
 ## Is this just an issue in Maine? It doesn’t seem that way…
 
 Next, I looked at Lee and Parolin’s data across the entire U.S. to see if this issue was specific to Maine. As can be seen below, a majority of childcare centers across the U.S. saw a mean decrease of between 25-50%––which indicates the probability for a lot of closures across the entire country, not just in one area. 
 ![us_mean_change_gg](https://user-images.githubusercontent.com/114178058/206836563-eb59cf6e-493d-4934-9860-72b764dc537d.png)
 ## When did all of these closures begin?
+Let's look at a timeline of 2020. 
 ![closures_by_month_gg](https://user-images.githubusercontent.com/114178058/206836573-c6c14daa-f2b7-466e-8d99-b0a896cdfbd8.png)
 From the same dataset, we can look at the timeline of closures. At the beginning of 2020, childcare centers seem to have just about the same amount of traffic as in the previous year. However, unsurprisingly, in March of 2020, centers appear to begin to close. By April, over an astonishing 30% of all childcare centers see less than 50% of the visitation that they did in the previous April. This indicates that around *a third* of all childcare centers have become inaccessible or much less accessible to families in need.
 ### One of the states we can see with one of the highest mean change rates is California. Let’s take a deeper look at California.
