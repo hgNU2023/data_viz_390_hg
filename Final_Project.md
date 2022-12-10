@@ -29,13 +29,25 @@ From the same dataset, we can look at the timeline of closures. At the beginning
 ### One of the states we can see with one of the highest mean change rates is California. Let’s take a deeper look at California.
 <img  alt = "County map of California showing childcare center closures" src="https://user-images.githubusercontent.com/114178058/206836564-ee1c748f-a293-45f0-98f0-43685582e0b5.png" width=40% height=40%>
 <img  alt = "County map of California showing poverty rates" src="https://user-images.githubusercontent.com/114178058/206836635-ae5d5f37-27ea-4ba8-af0b-46c81cc35059.png" width=40% height=40%>
-Looking at the overall scale and shading of the California county map, it is apparent that in the majority of California’s counties, 75% of schools were closed or majorly cut their enrollment. Does the closure rate vary in areas that have lower socioeconomic status? We can contemplate this question by giving a look at the second map here that shows the percentage of the total population of each county that lives below the federal poverty line, according to the USDA Economic Research Service (USDA). 
+Looking at the overall scale and shading of the California county map, it is apparent that in the majority of California’s counties, 75% of schools were closed or majorly cut their enrollment. Does the closure rate vary in areas that have lower socioeconomic status? We can contemplate this question by giving a look at the second map here that shows the percentage of the total population of each county that lives below the federal poverty line, according to the USDA Economic Research Service (USDA). As shown in the maps, closures affected *all* areas, despite poverty status. There does not appear to be a very strong correlation here, which shows how the pandemic really affected *all* people. However, people with lower socioeconomic status had drastically fewer options than more privileged families. 
+
+More privileged families had the ability to shift their career to a remote option and work from home to take part-time care over their children. For example, an occupational therapist PBS interviewed was able to switch up his gig for teaching an online class and found that taking a slight pay cut switching to an online position and caring for the baby at home was more financially sensible than paying for the $2,500 monthly cost of infant care (PBS).
+
 # How much do low-income families have to spend on childcare?
+
+
+Below is a graph of the top 10 countries where minimum-wage earning couples spend the highest percent of their household income on childcare. Here we can see that in the U.S., the third highest, minimum-wage earning couples spend **27% of their family income on child care.**
+
 ![childcare_cost_gg](https://user-images.githubusercontent.com/114178058/206836579-3f904386-b8d2-4cc9-9045-440028b29ed5.png)
+
+To make matters worse, kids were not able to get their vaccinations at the same time as the rest of the population, which added to the emotional strain of the pandemic. Without vaccinations, kids had to quarantine more frequently and for longer periods of time than the CDC allowed vaccinated people to. One study published in Frontiers of Psychology stated that “Quarantine's impact on children's behavioral and emotional problems is mediated by parent's individual and dyadic stress, with a stronger effect from the latter” (Frontier). 
+
 ![vax_by_age_gg](https://user-images.githubusercontent.com/114178058/206836582-589557c5-b0cc-41a6-b726-ca4159469b39.png)
 
+Overall, childcare closures during the pandemic appear to be a widespread, financially and emotionally damaging issue. These statistics coupled with personal anecdotes demonstrate that there may be deeper issues with the childcare industry in the U.S. as a whole. Continued data from the pandemic about childcare options, pay rates for nannies versus daycare workers, and further emotional analysis will likely be available soon, and will be important to analyze for the wellbeing of the youth of our country. This blog here only scratches the surface of the dimensional issue, and begins to give exigence for changes in the availability of childcare options.
 
-Sources Cited:
+Sources Cited:  
+
 https://www.ncsl.org/research/education/wake-up-call-for-child-care-as-pandemic-exposes-troubled-system-magazine2022.aspx
 
 OSF
