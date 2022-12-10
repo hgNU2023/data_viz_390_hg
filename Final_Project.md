@@ -63,5 +63,5 @@ Ho, Sally, and Josh Boak. “Worsened by Pandemic, Child Care Crisis Hampers Bro
 Spinelli, Maria, et al. “Parents' Stress and Children's Psychological Problems in Families Facing the COVID-19 Outbreak in Italy.” Frontiers, Frontiers, 22 June 2020, https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01713/full. 
 
 
-Packages Bibliography:
+R Packages Bibliography:
 [references.pdf](https://github.com/hgNU2023/data_viz_390_hg/files/10200664/references.pdf)
