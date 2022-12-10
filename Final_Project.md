@@ -10,7 +10,7 @@ When I go back to my hometown, Yarmouth, Maine, for summers, I work as a restaur
 
 I also should mention that I have worked for three summers as a full-time nanny––one of the more lucrative jobs for late high school and early college-aged kids. I can say that I myself profited from wealthy families who had the ability to pay the high hourly rate for 8-5 in-home help. However, I get a first hand look at how inaccessible and expensive it is to have a nanny––there are only so many nannies available, and they want to make as much money as they can just like everyone else. It’s a simple supply and demand problem––the lack of supply and over-demand allows nannies to select the highest-paying options. During the pandemic, this issue was exacerbated, with more kids out of school and at home than ever before. So, I go back to the limited options of my coworker––what would you do?
 
-Stories like the one I overheard at my restaurant were not uncommon during the pandemic. In fact, *millions of women realized they couldn’t sustain their jobs with the lack of childcare options during the pandemic and were forced to leave the workforce* (NCSL). While the pandemic uprooted families and individuals across the world, are there some demographics or geographic areas that felt a shift in childcare options worse than others? Looking into data gathered from the past few years, we can begin to illuminate what happened with childcare closures during the pandemic and who unfairly bears the brunt of dealing with this issue in a “half-changed world.”
+Stories like the one I overheard at my restaurant were not uncommon during the pandemic. In fact, *millions of women realized they couldn’t sustain their jobs with the lack of childcare options during the pandemic and were forced to leave the workforce*[1]. While the pandemic uprooted families and individuals across the world, are there some demographics or geographic areas that felt a shift in childcare options worse than others? Looking into data gathered from the past few years, we can begin to illuminate what happened with childcare closures during the pandemic and who unfairly bears the brunt of dealing with this issue in a “half-changed world.”
 
 ## Starting Out:
 
@@ -48,7 +48,8 @@ Overall, childcare closures during the pandemic appear to be a widespread, finan
 
 Sources Cited:  
 
-https://www.ncsl.org/research/education/wake-up-call-for-child-care-as-pandemic-exposes-troubled-system-magazine2022.aspx
+[1] Kelley Griffin, Kevin Frazzini. “Wake-up Call for Child Care as Pandemic Exposes Troubled System.” National Conference of State Legislatures, NCSL, https://www.ncsl.org/research/education/wake-up-call-for-child-care-as-pandemic-exposes-troubled-system-magazine2022.aspx. 
+
 
 OSF
 Lee, Emma K., and Zachary Parolin. (2021). “The Care Burden During COVID-19: A National Database of Child Care Closures in the United States.” OSF Preprints. May 14. osf.io/t5d3q.
