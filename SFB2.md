@@ -19,3 +19,14 @@ My graphs, then, look at the relationship between the liberal_democracy level an
 
 ![us_lib_dem_time_gg](https://user-images.githubusercontent.com/114178058/206878221-426db0a8-5ff1-43cc-9620-d9a4b606de00.png)
 ![us_govt_cens_time_gg](https://user-images.githubusercontent.com/114178058/206878251-8dc8a425-54f6-47af-ac0e-7b23eb5336f9.png)
+
+
+## Now Looking at Eastern Europe
+
+
+![ee_govt_cens_time_gg](https://user-images.githubusercontent.com/114178058/206878811-442ba92b-19a1-41d1-860f-31ff68521d80.png)
+![ee_lib_dem_time_gg](https://user-images.githubusercontent.com/114178058/206878814-fc3a0b8e-74a0-4b00-a223-b8d58398a4b4.png)
+![ee_dem_cens_point_gg](https://user-ima![ee_govt_cens_time_gg](https://user-images.githubusercontent.com/114178058/206878779-bc2c72e6-3118-49c6-b028-7a1c6f9edb1c.png)
+![ee_dem_cens_bar_gg](https://user-images.githubusercontent.com/114178058/206878817-1579a3c7-b225-4454-91d4-4bf605a87090.png)
+![ee_gov_cens_time_point_gg](https://user-images.githubusercontent.com/114178058/206878825-4ff6f0ea-2c0e-463b-9d73-a3910a8096f8.png)
+![ee_lib_cens_by_country_gg](https://user-images.githubusercontent.com/114178058/206878829-428b0613-90b8-480e-b2d1-b2ab8553a84b.png)
