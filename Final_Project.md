@@ -28,9 +28,7 @@ Let's look at a timeline of 2020.
 From the same dataset, we can look at the timeline of closures. At the beginning of 2020, childcare centers seem to have just about the same amount of traffic as in the previous year. However, unsurprisingly, in March of 2020, centers appear to begin to close. By April, over an astonishing 30% of all childcare centers see less than 50% of the visitation that they did in the previous April. This indicates that around *a third* of all childcare centers have become inaccessible or much less accessible to families in need.
 ### One of the states we can see with one of the highest mean change rates is California. Let’s take a deeper look at California.
 <img  alt = "County map of California showing childcare center closures" src="https://user-images.githubusercontent.com/114178058/206836564-ee1c748f-a293-45f0-98f0-43685582e0b5.png" width=75% height=75%>
-![ca_county_gg](https://user-images.githubusercontent.com/114178058/206836564-ee1c748f-a293-45f0-98f0-43685582e0b5.png)
 <img  alt = "County map of California showing poverty rates" src="https://user-images.githubusercontent.com/114178058/206836635-ae5d5f37-27ea-4ba8-af0b-46c81cc35059.png" width=75% height=75%>
-![ca_poverty_ggh_gg](https://user-images.githubusercontent.com/114178058/206836635-ae5d5f37-27ea-4ba8-af0b-46c81cc35059.png)
 ![childcare_cost_gg](https://user-images.githubusercontent.com/114178058/206836579-3f904386-b8d2-4cc9-9045-440028b29ed5.png)
 ![vax_by_age_gg](https://user-images.githubusercontent.com/114178058/206836582-589557c5-b0cc-41a6-b726-ca4159469b39.png)
 
