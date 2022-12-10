@@ -23,6 +23,7 @@ My graphs, then, look at the relationship between the liberal_democracy level an
 
 ## Now Looking at Eastern Europe
 
+In recent years, U.S. has had a measure of media censorship hovering between 2 and 3. We can see that Slovakia is the only country in recent years who has had this high of a score. Most countries have a much lower score and several have seen drastic declines. This is especially noticeable in Belarus and Hungary.
 
 ![ee_govt_cens_time_gg](https://user-images.githubusercontent.com/114178058/206878811-442ba92b-19a1-41d1-860f-31ff68521d80.png)
 ![ee_lib_dem_time_gg](https://user-images.githubusercontent.com/114178058/206878814-fc3a0b8e-74a0-4b00-a223-b8d58398a4b4.png)
