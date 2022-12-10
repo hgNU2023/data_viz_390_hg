@@ -29,6 +29,8 @@ From the same dataset, we can look at the timeline of closures. At the beginning
 ### One of the states we can see with one of the highest mean change rates is California. Let’s take a deeper look at California.
 <img  alt = "County map of California showing childcare center closures" src="https://user-images.githubusercontent.com/114178058/206836564-ee1c748f-a293-45f0-98f0-43685582e0b5.png" width=75% height=75%>
 <img  alt = "County map of California showing poverty rates" src="https://user-images.githubusercontent.com/114178058/206836635-ae5d5f37-27ea-4ba8-af0b-46c81cc35059.png" width=75% height=75%>
+Looking at the overall scale and shading of the California county map, it is apparent that in the majority of California’s counties, 75% of schools were closed or majorly cut their enrollment. Does the closure rate vary in areas that have lower socioeconomic status? We can contemplate this question by giving a look at the second map here that shows the percentage of the total population of each county that lives below the federal poverty line, according to the USDA Economic Research Service (USDA). 
+# How much do low-income families have to spend on childcare?
 ![childcare_cost_gg](https://user-images.githubusercontent.com/114178058/206836579-3f904386-b8d2-4cc9-9045-440028b29ed5.png)
 ![vax_by_age_gg](https://user-images.githubusercontent.com/114178058/206836582-589557c5-b0cc-41a6-b726-ca4159469b39.png)
 
