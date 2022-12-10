@@ -12,6 +12,7 @@ This blog is for the work I have completed for Poli Sci 390: Political Data Visu
 [**Visualization Blog 1:** Controversial Topics](VB1.md) <br>
 [**Short Form Blog 1:** Violence Against Women](SFB1.md) <br>
 [**Visualization Blog 2:** Revisiting Earlier Visualizations](VB2.md) <br>
+[**Short Form Blog 2:** V-Dem Data](SFB2.md) <br>
 [**Visualization Blog 3:** Final Project Proposal](Final_Proj_Proposal.md) <br>
 [**Final Project:** Childcare Closures During COVID](Final_Project.md.md)
 
